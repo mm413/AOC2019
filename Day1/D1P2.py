@@ -1,4 +1,4 @@
-#aoc day 1
+#aoc day 2
 import math
 import os
 def main():
